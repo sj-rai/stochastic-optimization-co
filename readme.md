@@ -1,0 +1,1 @@
+### Comparitive analysis of two first order stochastic optimization methods, SGD and SignSGD under stochastic heavy-tailed noise
